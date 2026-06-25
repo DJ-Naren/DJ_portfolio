@@ -627,8 +627,8 @@ function SMPServerSection() {
         isTimeout: false
     });
 
-    const serverIP = 'GP-Public_Network.aternos.me';
-    const serverPort = '45911';
+    const serverIP = ' DJ-Network.aternos.me';
+    const serverPort = '43372';
     const fullAddress = `${serverIP}:${serverPort}`;
 
     const fetchStatus = useCallback(async () => {
