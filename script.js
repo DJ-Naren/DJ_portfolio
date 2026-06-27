@@ -627,8 +627,8 @@ function SMPServerSection() {
         isTimeout: false
     });
 
-    const serverIP = ' DJ-Network.aternos.me';
-    const serverPort = '43372';
+    const serverIP = 'white-lambda.gl.joinmc.link';
+    const serverPort = '25565';
     const fullAddress = `${serverIP}:${serverPort}`;
 
     const fetchStatus = useCallback(async () => {
